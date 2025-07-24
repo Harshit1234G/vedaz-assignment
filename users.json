@@ -1,0 +1,62 @@
+[
+    {
+        "id": "user_01",
+        "chat_history": "I'm feeling really stuck in my relationship lately. I don't know if it's worth continuing or letting go."
+    },
+    {
+        "id": "user_02",
+        "chat_history": "I want to know if changing my career path at this age is a good idea. Will I be successful in a new domain?"
+    },
+    {
+        "id": "user_03",
+        "chat_history": "I keep facing health issues that doctors can't explain. Could there be something astrologically wrong?"
+    },
+    {
+        "id": "user_04",
+        "chat_history": "I've been trying for a baby for over two years. I want to know when I might get pregnant."
+    },
+    {
+        "id": "user_05",
+        "chat_history": "Can you tell me about my past life? I often feel like I've been here before."
+    },
+    {
+        "id": "user_06",
+        "chat_history": "I'm confused about my purpose in life. Nothing seems to bring me peace or satisfaction."
+    },
+    {
+        "id": "user_07",
+        "chat_history": "Will I do well in my upcoming competitive exams? I'm really stressed about my performance."
+    },
+    {
+        "id": "user_08",
+        "chat_history": "I'm going through a divorce. I want to know what the future holds for me emotionally."
+    },
+    {
+        "id": "user_09",
+        "chat_history": "I've recently started a small business. Will it grow or should I try something else?"
+    },
+    {
+        "id": "user_10",
+        "chat_history": "I feel like my chakras are misaligned. I've been irritable and low on energy for weeks."
+    },
+    {
+        "id": "user_11",
+        "chat_history": "My son is having trouble in school. I want to know how his education path looks astrologically."
+    },
+    {
+        "id": "user_12",
+        "chat_history": "I recently lost someone very close. I'm seeking spiritual guidance to find peace."
+    },
+    {
+        "id": "user_13",
+        "chat_history": "I've been investing in the stock market. Can astrology help me make better financial decisions?"
+    },
+    {
+        "id": "user_14",
+        "chat_history": "I need help dealing with anxiety and mental health. Are there remedies or alignments for this?"
+    },
+    {
+        "id": "user_15",
+        "chat_history": "What kind of relationship am I destined for? I always end up with the wrong person."
+    }
+]

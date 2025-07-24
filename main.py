@@ -37,3 +37,6 @@ Prompt:
 Write a prompt or small agent logic that behaves like a basic AI astrologer — it should be able to take a palm reading description or horoscope summary and reply with a life insight or advice.
 (Use OpenAI, Claude, or open-source LLM, or write pseudocode.)
 """
+
+
+
