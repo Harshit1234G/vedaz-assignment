@@ -48,6 +48,9 @@ from numpy.typing import NDArray
 
 class AstrologerRecommender:
     def __init__(self) -> None:
+        """
+        Loads the sentence transformer and datasets.
+        """
         # loading sentence transformer
         self.transformer = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -58,22 +61,58 @@ class AstrologerRecommender:
         # getting astrologer embeddings
         self.astrologer_bios = self.get_embeddings(self.astrologers, 'bio')
 
+
     @staticmethod
     def load_data(path: str) -> list[dict]:
+        """Static function to load `.json` files.
+
+        Args:
+            path (str): path to the `.json` file
+
+        Returns:
+            list[dict]: Loaded `.json` file
+        """
         with open(path, 'r') as f:
             data = json.load(f)
         return data
 
+
     def get_embeddings(self, json_data: list[dict], key: str) -> NDArray:
+        """Extracts the sentences from the `json_data` and encodes them.
+
+        Args:
+            json_data (list[dict])
+            key (str): key whose values are to be extracted
+
+        Returns:
+            NDArray: embedding from the sentence transformer
+        """
         sentences = [data[key] for data in json_data]
         return self.transformer.encode(sentences)
 
+
     def recommend(self, user_input: str, *, top_k: int = 3) -> list[dict]:
+        """Recommend top_k astrologers based on similarity between user_input and astrologer bios.
+
+        Args:
+            user_input (str): Recommendations on the basis of this text
+            top_k (int, optional): total number of recommendations. Defaults to 3.
+
+        Returns:
+            list[dict]
+        """
+        # generate embedding for the user input text
         user_embeddings = self.transformer.encode([user_input.lower()])
+
+        # compute cosine similarity between user input and all astrologer bios
         similarities = cosine_similarity(user_embeddings, self.astrologer_bios)[0]
+
+        # get indices of top_k most similar astrologer bios
         top_k_indices = np.argsort(similarities)[::-1][:top_k]
 
+        # Prepare the result dictionry for each top match
         recommendations = []
+
         for idx in top_k_indices:
             astrologer = self.astrologers[idx]
             score = round(float(similarities[idx]), 4)
@@ -92,11 +131,15 @@ if __name__ == '__main__':
     recommender = AstrologerRecommender()
     final_results = []
 
+    # iterate over all users and generate top astrologer recommendations
     for user in recommender.users:
         user_id = user['id']
         chat_history = user['chat_history']
+
+        # get top matching astrologers based on user chat history
         top_matches = recommender.recommend(chat_history)
 
+        # Create a result entry for this user
         result_entry = {
             'user_id': user_id,
             'top_matches': top_matches
