@@ -1,0 +1,347 @@
+[
+  {
+    "user_id": "chat_01",
+    "top_matches": [
+      {
+        "astrologer_id": 5,
+        "name": "Neha Kapoor",
+        "bio": "tarot reader and astrologer who helps with decision-making in relationships and daily challenges. offers intuitive forecasts for navigating emotional dilemmas and life paths.",
+        "similarity_score": 0.1353
+      },
+      {
+        "astrologer_id": 1,
+        "name": "Asha Verma",
+        "bio": "specialist in love, marriage, and family issues. known for compassionate and intuitive readings that provide clarity and emotional healing to those facing relationship troubles.",
+        "similarity_score": 0.1282
+      },
+      {
+        "astrologer_id": 3,
+        "name": "Soni Pandey",
+        "bio": "focuses on spiritual guidance, chakra balancing, and mental wellness through astrology. provides calming insights and holistic support for emotional well-being and inner peace.",
+        "similarity_score": 0.1061
+      }
+    ]
+  },
+  {
+    "user_id": "chat_02",
+    "top_matches": [
+      {
+        "astrologer_id": 8,
+        "name": "Ankit Desai",
+        "bio": "helps students and professionals with career path predictions, study success, and exam anxiety. empowers youth with confidence-building insights and future guidance.",
+        "similarity_score": 0.3615
+      },
+      {
+        "astrologer_id": 2,
+        "name": "Raghav Tiwari",
+        "bio": "career and business astrologer with a background in psychology and vedic sciences. helps individuals make informed professional choices and navigate corporate life successfully.",
+        "similarity_score": 0.3266
+      },
+      {
+        "astrologer_id": 4,
+        "name": "Manoj Kumar Joshi",
+        "bio": "expert in financial astrology and investment-related predictions. guides clients with strategic planning for wealth management, long-term stability, and smart decision-making.",
+        "similarity_score": 0.2755
+      }
+    ]
+  },
+  {
+    "user_id": "chat_03",
+    "top_matches": [
+      {
+        "astrologer_id": 10,
+        "name": "Vikram Rathore",
+        "bio": "experienced in health-related astrology and offering remedies for physical and emotional wellness. creates personalized healing plans rooted in planetary health influences.",
+        "similarity_score": 0.5672
+      },
+      {
+        "astrologer_id": 3,
+        "name": "Soni Pandey",
+        "bio": "focuses on spiritual guidance, chakra balancing, and mental wellness through astrology. provides calming insights and holistic support for emotional well-being and inner peace.",
+        "similarity_score": 0.4357
+      },
+      {
+        "astrologer_id": 7,
+        "name": "Divya Sharma",
+        "bio": "known for child birth-related consultations and fertility astrology using ancient techniques. supports couples with astrological remedies and timelines for family planning.",
+        "similarity_score": 0.3897
+      }
+    ]
+  },
+  {
+    "user_id": "chat_04",
+    "top_matches": [
+      {
+        "astrologer_id": 7,
+        "name": "Divya Sharma",
+        "bio": "known for child birth-related consultations and fertility astrology using ancient techniques. supports couples with astrological remedies and timelines for family planning.",
+        "similarity_score": 0.179
+      },
+      {
+        "astrologer_id": 6,
+        "name": "Harsh Mehta",
+        "bio": "guides individuals facing personal confusion or crossroads in life using natal chart readings. known for empathetic consultations that inspire self-discovery and purpose.",
+        "similarity_score": 0.0707
+      },
+      {
+        "astrologer_id": 5,
+        "name": "Neha Kapoor",
+        "bio": "tarot reader and astrologer who helps with decision-making in relationships and daily challenges. offers intuitive forecasts for navigating emotional dilemmas and life paths.",
+        "similarity_score": 0.0429
+      }
+    ]
+  },
+  {
+    "user_id": "chat_05",
+    "top_matches": [
+      {
+        "astrologer_id": 9,
+        "name": "Ritu Jain",
+        "bio": "focuses on past-life connections, karmic issues, and soul-purpose discovery through astrology. specializes in deep spiritual readings that unlock inner growth and transformation.",
+        "similarity_score": 0.3163
+      },
+      {
+        "astrologer_id": 5,
+        "name": "Neha Kapoor",
+        "bio": "tarot reader and astrologer who helps with decision-making in relationships and daily challenges. offers intuitive forecasts for navigating emotional dilemmas and life paths.",
+        "similarity_score": 0.2196
+      },
+      {
+        "astrologer_id": 6,
+        "name": "Harsh Mehta",
+        "bio": "guides individuals facing personal confusion or crossroads in life using natal chart readings. known for empathetic consultations that inspire self-discovery and purpose.",
+        "similarity_score": 0.2107
+      }
+    ]
+  },
+  {
+    "user_id": "chat_06",
+    "top_matches": [
+      {
+        "astrologer_id": 3,
+        "name": "Soni Pandey",
+        "bio": "focuses on spiritual guidance, chakra balancing, and mental wellness through astrology. provides calming insights and holistic support for emotional well-being and inner peace.",
+        "similarity_score": 0.3276
+      },
+      {
+        "astrologer_id": 9,
+        "name": "Ritu Jain",
+        "bio": "focuses on past-life connections, karmic issues, and soul-purpose discovery through astrology. specializes in deep spiritual readings that unlock inner growth and transformation.",
+        "similarity_score": 0.3077
+      },
+      {
+        "astrologer_id": 6,
+        "name": "Harsh Mehta",
+        "bio": "guides individuals facing personal confusion or crossroads in life using natal chart readings. known for empathetic consultations that inspire self-discovery and purpose.",
+        "similarity_score": 0.2781
+      }
+    ]
+  },
+  {
+    "user_id": "chat_07",
+    "top_matches": [
+      {
+        "astrologer_id": 8,
+        "name": "Ankit Desai",
+        "bio": "helps students and professionals with career path predictions, study success, and exam anxiety. empowers youth with confidence-building insights and future guidance.",
+        "similarity_score": 0.4323
+      },
+      {
+        "astrologer_id": 4,
+        "name": "Manoj Kumar Joshi",
+        "bio": "expert in financial astrology and investment-related predictions. guides clients with strategic planning for wealth management, long-term stability, and smart decision-making.",
+        "similarity_score": 0.1734
+      },
+      {
+        "astrologer_id": 2,
+        "name": "Raghav Tiwari",
+        "bio": "career and business astrologer with a background in psychology and vedic sciences. helps individuals make informed professional choices and navigate corporate life successfully.",
+        "similarity_score": 0.1625
+      }
+    ]
+  },
+  {
+    "user_id": "chat_08",
+    "top_matches": [
+      {
+        "astrologer_id": 5,
+        "name": "Neha Kapoor",
+        "bio": "tarot reader and astrologer who helps with decision-making in relationships and daily challenges. offers intuitive forecasts for navigating emotional dilemmas and life paths.",
+        "similarity_score": 0.314
+      },
+      {
+        "astrologer_id": 1,
+        "name": "Asha Verma",
+        "bio": "specialist in love, marriage, and family issues. known for compassionate and intuitive readings that provide clarity and emotional healing to those facing relationship troubles.",
+        "similarity_score": 0.298
+      },
+      {
+        "astrologer_id": 3,
+        "name": "Soni Pandey",
+        "bio": "focuses on spiritual guidance, chakra balancing, and mental wellness through astrology. provides calming insights and holistic support for emotional well-being and inner peace.",
+        "similarity_score": 0.2638
+      }
+    ]
+  },
+  {
+    "user_id": "chat_09",
+    "top_matches": [
+      {
+        "astrologer_id": 4,
+        "name": "Manoj Kumar Joshi",
+        "bio": "expert in financial astrology and investment-related predictions. guides clients with strategic planning for wealth management, long-term stability, and smart decision-making.",
+        "similarity_score": 0.2674
+      },
+      {
+        "astrologer_id": 2,
+        "name": "Raghav Tiwari",
+        "bio": "career and business astrologer with a background in psychology and vedic sciences. helps individuals make informed professional choices and navigate corporate life successfully.",
+        "similarity_score": 0.1817
+      },
+      {
+        "astrologer_id": 8,
+        "name": "Ankit Desai",
+        "bio": "helps students and professionals with career path predictions, study success, and exam anxiety. empowers youth with confidence-building insights and future guidance.",
+        "similarity_score": 0.0955
+      }
+    ]
+  },
+  {
+    "user_id": "chat_10",
+    "top_matches": [
+      {
+        "astrologer_id": 3,
+        "name": "Soni Pandey",
+        "bio": "focuses on spiritual guidance, chakra balancing, and mental wellness through astrology. provides calming insights and holistic support for emotional well-being and inner peace.",
+        "similarity_score": 0.4983
+      },
+      {
+        "astrologer_id": 10,
+        "name": "Vikram Rathore",
+        "bio": "experienced in health-related astrology and offering remedies for physical and emotional wellness. creates personalized healing plans rooted in planetary health influences.",
+        "similarity_score": 0.3011
+      },
+      {
+        "astrologer_id": 9,
+        "name": "Ritu Jain",
+        "bio": "focuses on past-life connections, karmic issues, and soul-purpose discovery through astrology. specializes in deep spiritual readings that unlock inner growth and transformation.",
+        "similarity_score": 0.2167
+      }
+    ]
+  },
+  {
+    "user_id": "chat_11",
+    "top_matches": [
+      {
+        "astrologer_id": 7,
+        "name": "Divya Sharma",
+        "bio": "known for child birth-related consultations and fertility astrology using ancient techniques. supports couples with astrological remedies and timelines for family planning.",
+        "similarity_score": 0.4702
+      },
+      {
+        "astrologer_id": 2,
+        "name": "Raghav Tiwari",
+        "bio": "career and business astrologer with a background in psychology and vedic sciences. helps individuals make informed professional choices and navigate corporate life successfully.",
+        "similarity_score": 0.466
+      },
+      {
+        "astrologer_id": 4,
+        "name": "Manoj Kumar Joshi",
+        "bio": "expert in financial astrology and investment-related predictions. guides clients with strategic planning for wealth management, long-term stability, and smart decision-making.",
+        "similarity_score": 0.4387
+      }
+    ]
+  },
+  {
+    "user_id": "chat_12",
+    "top_matches": [
+      {
+        "astrologer_id": 3,
+        "name": "Soni Pandey",
+        "bio": "focuses on spiritual guidance, chakra balancing, and mental wellness through astrology. provides calming insights and holistic support for emotional well-being and inner peace.",
+        "similarity_score": 0.3691
+      },
+      {
+        "astrologer_id": 9,
+        "name": "Ritu Jain",
+        "bio": "focuses on past-life connections, karmic issues, and soul-purpose discovery through astrology. specializes in deep spiritual readings that unlock inner growth and transformation.",
+        "similarity_score": 0.3484
+      },
+      {
+        "astrologer_id": 1,
+        "name": "Asha Verma",
+        "bio": "specialist in love, marriage, and family issues. known for compassionate and intuitive readings that provide clarity and emotional healing to those facing relationship troubles.",
+        "similarity_score": 0.2832
+      }
+    ]
+  },
+  {
+    "user_id": "chat_13",
+    "top_matches": [
+      {
+        "astrologer_id": 4,
+        "name": "Manoj Kumar Joshi",
+        "bio": "expert in financial astrology and investment-related predictions. guides clients with strategic planning for wealth management, long-term stability, and smart decision-making.",
+        "similarity_score": 0.6668
+      },
+      {
+        "astrologer_id": 2,
+        "name": "Raghav Tiwari",
+        "bio": "career and business astrologer with a background in psychology and vedic sciences. helps individuals make informed professional choices and navigate corporate life successfully.",
+        "similarity_score": 0.6116
+      },
+      {
+        "astrologer_id": 10,
+        "name": "Vikram Rathore",
+        "bio": "experienced in health-related astrology and offering remedies for physical and emotional wellness. creates personalized healing plans rooted in planetary health influences.",
+        "similarity_score": 0.5262
+      }
+    ]
+  },
+  {
+    "user_id": "chat_14",
+    "top_matches": [
+      {
+        "astrologer_id": 3,
+        "name": "Soni Pandey",
+        "bio": "focuses on spiritual guidance, chakra balancing, and mental wellness through astrology. provides calming insights and holistic support for emotional well-being and inner peace.",
+        "similarity_score": 0.315
+      },
+      {
+        "astrologer_id": 8,
+        "name": "Ankit Desai",
+        "bio": "helps students and professionals with career path predictions, study success, and exam anxiety. empowers youth with confidence-building insights and future guidance.",
+        "similarity_score": 0.2633
+      },
+      {
+        "astrologer_id": 6,
+        "name": "Harsh Mehta",
+        "bio": "guides individuals facing personal confusion or crossroads in life using natal chart readings. known for empathetic consultations that inspire self-discovery and purpose.",
+        "similarity_score": 0.2616
+      }
+    ]
+  },
+  {
+    "user_id": "chat_15",
+    "top_matches": [
+      {
+        "astrologer_id": 5,
+        "name": "Neha Kapoor",
+        "bio": "tarot reader and astrologer who helps with decision-making in relationships and daily challenges. offers intuitive forecasts for navigating emotional dilemmas and life paths.",
+        "similarity_score": 0.345
+      },
+      {
+        "astrologer_id": 1,
+        "name": "Asha Verma",
+        "bio": "specialist in love, marriage, and family issues. known for compassionate and intuitive readings that provide clarity and emotional healing to those facing relationship troubles.",
+        "similarity_score": 0.2602
+      },
+      {
+        "astrologer_id": 9,
+        "name": "Ritu Jain",
+        "bio": "focuses on past-life connections, karmic issues, and soul-purpose discovery through astrology. specializes in deep spiritual readings that unlock inner growth and transformation.",
+        "similarity_score": 0.2104
+      }
+    ]
+  }
+]
